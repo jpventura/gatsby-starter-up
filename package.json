@@ -30,6 +30,7 @@
     "gatsby-plugin-manifest": "^3.4.0",
     "gatsby-plugin-material-ui": "^3.0.1",
     "gatsby-plugin-offline": "^4.4.0",
+    "gatsby-plugin-page-creator": "^3.4.1",
     "gatsby-plugin-react-helmet": "^4.4.0",
     "gatsby-plugin-sharp": "^3.4.1",
     "gatsby-source-filesystem": "^3.4.0",
@@ -38,7 +39,12 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
-    "react-scripts": "^4.0.3"
+    "react-redux": "^7.2.4",
+    "react-scripts": "^4.0.3",
+    "redux": "^4.1.0",
+    "redux-observable": "^1.2.0",
+    "rxjs": "^6.6.7",
+    "typeface-roboto": "1.1.13"
   },
   "devDependencies": {
     "@babel/core": "^7.14.0",
