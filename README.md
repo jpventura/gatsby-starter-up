@@ -34,6 +34,12 @@
   <a href="https://snyk.io/test/npm/package.json/0.0.0">
     <img src="https://snyk.io/test/npm/package.json/0.0.0/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/npm/package.json/0.0.0" style="max-width:100%;">
   </a>&nbsp;
+  <a href="https://codeclimate.com/github/jpventura/gatsby-starter-up/maintainability">
+    <img src="https://api.codeclimate.com/v1/badges/2a5b82c1b2a5cbd7c434/maintainability" />
+  </a>&nbsp;
+  <a href="https://codeclimate.com/github/jpventura/gatsby-starter-up/test_coverage">
+    <img src="https://api.codeclimate.com/v1/badges/2a5b82c1b2a5cbd7c434/test_coverage" />
+  </a>&nbsp;
 </p>
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
