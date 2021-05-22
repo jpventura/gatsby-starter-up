@@ -31,6 +31,9 @@
   <a href="https://circleci.com/gh/jpventura/workflows/template/tree/master">
     <img src="https://img.shields.io/circleci/build/github/jpventura/template/master.svg?logo=circleci&logoColor=fff&label=CircleCI" alt="CI status" />
   </a>&nbsp;
+  <a href="https://snyk.io/test/npm/package.json/0.0.0">
+    <img src="https://snyk.io/test/npm/package.json/0.0.0/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/npm/package.json/0.0.0" style="max-width:100%;">
+  </a>&nbsp;
 </p>
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
