@@ -45,7 +45,8 @@
   "keywords": [
     "changelog",
     "conventional",
-    "conventional-changelog"
+    "conventional-changelog",
+    "react"
   ],
   "private": true,
   "scripts": {
