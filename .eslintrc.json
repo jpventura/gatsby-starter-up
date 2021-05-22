@@ -3,8 +3,9 @@
     "jest": true
   },
   "extends": [
-    "airbnb-base",
-    "airbnb-typescript/base"
+    "airbnb",
+    "airbnb/hooks",
+    "airbnb-typescript"
   ],
   "globals": {
     "__CLIENT__": true,
@@ -16,7 +17,9 @@
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
-
+    "ecmaFeatures": {
+      "jsx": true
+    },
     "ecmaVersion": 2020,
     "project": [
       "./jest.config.json",
@@ -26,7 +29,9 @@
   },
   "plugins": [
     "@typescript-eslint",
-    "import"
+    "import",
+    "jsx-a11y",
+    "react"
   ],
   "root": true,
   "rules": {}
